@@ -1,2 +1,2 @@
 # HtmlImageExample By Htoo Tint Wai
-# Lecturer - Kin Kattar Myint
+# Lecturer - Kin Kattar Myint (Y-Max)
